@@ -1,0 +1,152 @@
+.icon-mixin {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+}
+.select-user-icon-tag {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/tag.svg) no-repeat;
+}
+.select-user-icon-tag-group {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/tag-group.svg) no-repeat;
+}
+.select-user-icon-user {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/user.svg) no-repeat;
+}
+.select-user-icon-group {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/group.svg) no-repeat;
+}
+.select-user-icon-root {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/root.svg) no-repeat;
+}
+.select-user-icon-dept {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/dept.svg) no-repeat;
+}
+.select-user-icon-house {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/house.svg) no-repeat;
+}
+.select-user-icon-equment {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/equment.svg) no-repeat;
+}
+.select-user-icon-org {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/org.svg) no-repeat;
+}
+.select-user-icon-xzqh {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/xzqh.svg) no-repeat;
+}
+.select-user-icon-resource {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/resource.svg) no-repeat;
+}
+.select-user-icon-community {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/community.svg) no-repeat;
+}
+.gzh-list-icon {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/gzh_list.svg) no-repeat;
+}
+.gzh-group-icon {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/gzh_group.svg) no-repeat;
+}
+.menu-icon {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/menu.svg) no-repeat;
+}
+.content-icon {
+  display: inline-block;
+  margin-right: 6px;
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  background: url(icon/content.svg) no-repeat;
+}

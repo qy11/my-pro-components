@@ -1,0 +1,12 @@
+.input-withMaxLength {
+  height: 34px;
+}
+.input-withMaxLength .ant-input:not(:last-child) {
+  padding-right: 10px !important;
+}
+.input-withMaxLength .ant-input-suffix {
+  color: #999 !important;
+}
+.input-withMaxLength:before {
+  content: '' !important;
+}

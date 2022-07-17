@@ -1,0 +1,299 @@
+{
+  "success": true,
+  "code": 0,
+  "errorMsg": null,
+  "data": {
+    "dataSource": [
+      {
+        "labelPath": ["行知小学", "二小", "五年级"],
+        "key": "1",
+        "type": "tag-group",
+        "isLeaf": false,
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      },
+      {
+        "labelPath": ["行知小学", "一小", "五年级", "3 班"],
+        "key": "2",
+        "type": "tag-group",
+        "iconType": "menu_first"
+      }
+    ],
+    "peopleList": [
+      {
+        "iconType": "menu_second",
+        "type": "user",
+        "isLeaf": false,
+        "label": "张三",
+        "key": "3"
+      },
+
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四吉祥的名字如果过长的话就点",
+        "key": "4",
+        "iconType": "menu_second",
+        "type": "user",
+        "position": "副校长"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "5",
+        "orgName": "小虫学校滨教育局"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      },
+      {
+        "label": "李四",
+        "type": "user",
+        "iconType": "menu_second",
+        "key": "6",
+        "position": "副校长",
+        "orgName": "职务文案具体内容见原型职务文案具体内容见原型职务文案具体内容见原型职务文案具"
+      }
+    ]
+  }
+}

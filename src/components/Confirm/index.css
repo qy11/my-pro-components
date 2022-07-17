@@ -1,0 +1,40 @@
+.ssp-buttom-comfirm-modal :global .ant-modal-body {
+  padding: 16px 24px 24px !important;
+}
+.ssp-buttom-comfirm-modal :global .ant-modal-body .ant-modal-confirm-body > span:first-child {
+  display: none;
+}
+.ssp-buttom-comfirm-modal .ssp-button-comfirm {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.ssp-buttom-comfirm-modal .ssp-button-comfirm > span:first-child {
+  color: #333;
+  font-size: 14px;
+  font-weight: 700;
+  height: 32px;
+  border-bottom: 1px solid #dfe1e8;
+}
+.ssp-buttom-comfirm-modal .ssp-button-comfirm .ssp-button-comfirm-title {
+  display: flex;
+  margin-top: 32px;
+}
+.ssp-buttom-comfirm-modal .ssp-button-comfirm .ssp-button-comfirm-title > img {
+  margin-top: 2px;
+  width: 14px;
+  height: 14px;
+}
+.ssp-buttom-comfirm-modal .ssp-button-comfirm .ssp-button-comfirm-title > span {
+  padding-left: 8px;
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+}
+.ssp-buttom-comfirm-modal .ssp-button-comfirm > span:nth-child(3) {
+  padding-top: 16px;
+  padding-left: 22px;
+  font-size: 12px;
+  font-weight: 400;
+  color: #999;
+}

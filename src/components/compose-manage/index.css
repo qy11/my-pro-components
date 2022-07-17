@@ -1,0 +1,140 @@
+.cf-table-header-help {
+  margin-left: 5px;
+}
+.ant-table-cell {
+  height: 40px;
+}
+.ant-table.ant-table-small .ant-table-tbody > tr > td {
+  padding: 8px 24px 8px 8px;
+}
+.ant-table.ant-table-small .ant-table-tbody > tr > td:last-child {
+  padding: 8px 0px 8px 8px;
+}
+.ss-compose-manage-container {
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-bottom: 24px;
+}
+.ss-compose-manage-container .section-alert {
+  margin-bottom: 16px;
+}
+.ss-compose-manage-container .section-alert .cf-manage-alert-refresh-btn {
+  margin-left: 5px;
+}
+.ss-compose-manage-container .ant-form-item-no-colon {
+  display: none;
+}
+.ss-compose-manage-container .table-empty-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 32px 0;
+}
+.ss-compose-manage-container .table-empty-style img {
+  width: 128px;
+  height: 128px;
+}
+.ss-compose-manage-container .table-empty-style span {
+  font-size: 14px;
+  color: #999;
+}
+.ss-compose-manage-container .table-list .cf-compose-manage-pagination {
+  padding-bottom: 24px;
+}
+.ss-compose-manage-container .caption-left-side {
+  display: flex;
+  align-items: center;
+}
+.ss-compose-manage-container .caption-left-side > * + * {
+  margin-left: 8px;
+}
+.ss-compose-manage-container .section-caption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 16px 0;
+}
+.ss-compose-manage-container .caption-filter-field {
+  flex: 0 0 auto;
+}
+.ss-compose-manage-container .caption-filter-field .ant-form-item {
+  margin-right: 8px;
+}
+.ss-compose-manage-container .caption-tooltip {
+  font-size: 14px;
+  color: #666;
+}
+.ss-compose-manage-container .cf-compose-manage-pagination {
+  padding-top: 16px;
+  padding-bottom: 24px;
+  display: flex;
+}
+.ss-compose-manage-container .cf-compose-manage-pagination .ant-pagination-total-text {
+  flex: 1;
+}
+.ss-compose-manage-container .ant-btn-link {
+  padding: 0;
+  cursor: pointer;
+  padding-right: 12px;
+}
+.ss-compose-manage-container .ant-btn-link:last-child {
+  padding-right: 0;
+}
+.ss-compose-manage-container .ant-input-affix-wrapper::before {
+  content: '';
+}
+.ss-compose-manage-container .ant-alert {
+  align-items: normal;
+}
+.ss-compose-manage-container .ant-alert .anticon {
+  margin-top: 4px;
+}
+.ss-query-filter {
+  padding: 24px 24px 0 !important;
+  background-color: #fff;
+  border: 1px solid #dfe1e8;
+  border-radius: 3px;
+  margin: 16px 0 !important;
+}
+.ss-query-filter .ant-form-item-label > label {
+  padding-top: 0;
+  place-items: center;
+}
+.special-filter {
+  padding: 24px 24px 0 !important;
+  background-color: #fff;
+  border: 1px solid #dfe1e8;
+  border-radius: 3px;
+}
+.special-filter .ant-form-item-has-success {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  flex-wrap: nowrap;
+}
+.special-filter .ant-form-item-label > label {
+  min-width: 72px;
+}
+.special-filter .ant-form-item-control {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.sortable-table tr.drop-over-downward td {
+  border-bottom: 2px dashed #1890ff;
+}
+.sortable-table tr.drop-over-upward td {
+  border-top: 2px dashed #1890ff;
+}
+.ss-compose-manage-container .ant-input-affix-wrapper,
+.ss-biz-tree .ant-input-affix-wrapper {
+  height: 32px;
+}
+.cf-compose-tab .ant-tabs-top > .ant-tabs-nav::before,
+.cf-compose-tab .ant-tabs-bottom > .ant-tabs-nav::before,
+.cf-compose-tab .ant-tabs-top > div > .ant-tabs-nav::before,
+.cf-compose-tab .ant-tabs-bottom > div > .ant-tabs-nav::before {
+  width: 100%;
+}

@@ -1,0 +1,72 @@
+@media (max-width: 575px) {
+  :global .cf-compose-form-container .ant-form .ant-form-item {
+    flex-wrap: nowrap;
+  }
+  :global .cf-compose-form-container .ant-form .ant-form-item .ant-form-item-label,
+  :global .cf-compose-form-container .ant-form .ant-form-item .ant-form-item-control {
+    flex: unset;
+    max-width: 100%;
+  }
+  :global .cf-compose-form-container .cf-form-item {
+    display: flex;
+  }
+  :global .cf-compose-form-container .cf-form-item .ant-form-item-label {
+    width: 70px !important;
+    text-align: right !important;
+    padding: 0;
+    margin-right: 16px;
+  }
+  :global .cf-compose-form-container .cf-form-item .ant-form-item-label label::after {
+    content: ':';
+    position: relative;
+    top: -0.5px;
+    margin: 0 8px 0 2px;
+  }
+  :global .cf-compose-form-container .cf-form-item .ant-form-item-control {
+    flex: 1 !important;
+  }
+}
+.cf-compose-form-container {
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-bottom: 50px;
+}
+.cf-compose-form-container .cf-compose-form-title {
+  display: flex;
+  flex-direction: column;
+}
+.cf-compose-form-container .cf-compose-form-title > span {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+.cf-compose-form-container .cf-compose-form-title .ant-divider-horizontal {
+  margin: 0;
+  margin-bottom: 24px;
+}
+.cf-compose-form-container .ant-alert {
+  margin-bottom: 24px;
+}
+.cf-compose-form-container .cf-compose-form .ant-btn {
+  margin-right: 8px;
+}
+.cf-compose-form-container .cf-form-action {
+  text-align: right;
+}
+.no-container {
+  display: none;
+}
+.fixedActionWrapper {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  padding: 12px 24px;
+  z-index: 10;
+  background-color: #fff;
+  border-top: 1px solid #eee;
+}
+.fixedActionWrapper > * {
+  margin-left: 8px;
+}
